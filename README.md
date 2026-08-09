@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0066-plus-one) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
