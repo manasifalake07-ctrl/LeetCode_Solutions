@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0066-plus-one) |
+| [0168-excel-sheet-column-title](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0392-is-subsequence) |
