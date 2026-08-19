@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1108-defanging-an-ip-address](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/1108-defanging-an-ip-address) |
