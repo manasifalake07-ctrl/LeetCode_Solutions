@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0680-valid-palindrome-ii](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1108-defanging-an-ip-address](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1768-merge-strings-alternately](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/1768-merge-strings-alternately) |
@@ -118,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0392-is-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
