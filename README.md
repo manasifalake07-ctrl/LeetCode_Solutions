@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0260-single-number-iii](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-transpose-matrix](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0867-transpose-matrix) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0136-single-number) |
+| [0260-single-number-iii](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 ## Hash Table
