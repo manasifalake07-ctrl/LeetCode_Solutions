@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0231-power-of-two](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0389-find-the-difference) |
@@ -128,5 +130,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
