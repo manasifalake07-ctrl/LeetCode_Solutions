@@ -1,9 +1,10 @@
 class Solution {
     public int search(int[] nums, int target) {
+        //T(log(n))S(1)
         int lo = 0;
         int hi = nums.length - 1;
         while(lo <= hi) {
-            int mid = lo + (hi - lo) /2;
+            int mid = lo + (hi - lo) / 2;
             if(nums[mid] == target) {
                 return(mid);
             }
@@ -14,7 +15,7 @@ class Solution {
                     lo = mid + 1;
                 }
             } else {
-                if(nums[mid] < target && target <= nums[hi]) {
+                if(nums[mid] <= target && target <= nums[hi]) {
                     lo = mid + 1;
                 } else {
                     hi = mid - 1;
