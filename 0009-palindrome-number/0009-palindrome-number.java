@@ -1,20 +1,15 @@
 class Solution {
     public boolean isPalindrome(int x) {
-
-        if (x < 0) {
-            return false;
+        //T(n)S(n)
+        if(x < 0) {
+            return(false);
         }
-
         String s = Integer.toString(x);
-
-        for (int start = 0; start < s.length() / 2; start++) {
-            int end = s.length() - 1 - start;
-
-            if (s.charAt(start) != s.charAt(end)) {
-                return false;
+        for(int i = 0 ; i <= s.length()/2 ; i++) {
+            if(s.charAt(i) != s.charAt(s.length() - 1 - i)) {
+                return(false);
             }
         }
-
-        return true;
+        return(true);
     }
 }
