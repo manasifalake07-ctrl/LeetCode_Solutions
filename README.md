@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0268-missing-number) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0268-missing-number) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0179-largest-number](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0389-find-the-difference) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0179-largest-number](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
