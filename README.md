@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-transpose-matrix](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0867-transpose-matrix) |
+| [0912-sort-an-array](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0912-sort-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [3033-modify-the-matrix](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/3033-modify-the-matrix) |
 ## Math
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0912-sort-an-array](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0912-sort-an-array) |
 ## String
 |  |
 | ------- |
@@ -145,4 +148,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0394-decode-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/manasifalake07-ctrl/LeetCode_Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
